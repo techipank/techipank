@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @techipank
 - 👀 I’m interested in Java/J2EE, ReactJS development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CI/CD Pipeline
+- 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me ...
 
 <!---
